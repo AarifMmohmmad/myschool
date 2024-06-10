@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myschool/static/css/main.4e0ec238.css",
+    "main.js": "/myschool/static/js/main.a252aadc.js",
+    "static/js/453.840aaa2c.chunk.js": "/myschool/static/js/453.840aaa2c.chunk.js",
+    "static/media/HomeCrusel.png": "/myschool/static/media/HomeCrusel.be3665148a20d01f13d4.png",
+    "index.html": "/myschool/index.html",
+    "main.4e0ec238.css.map": "/myschool/static/css/main.4e0ec238.css.map",
+    "main.a252aadc.js.map": "/myschool/static/js/main.a252aadc.js.map",
+    "453.840aaa2c.chunk.js.map": "/myschool/static/js/453.840aaa2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e0ec238.css",
+    "static/js/main.a252aadc.js"
+  ]
+}
